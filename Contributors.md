@@ -6,6 +6,7 @@
 - [Nicholas Carnival] (https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
 - [Lakshay Wadhwa](http://github.com/luck-u)
+- [Omar Qasim](https://github.com/omarahmed10)
 - [Vast Peng](https://github.com/keatingsmith)
 - [Archit Singla](https://github.com/architsingla13)
 - [Shawn Flores](https://github.com/priultimus)
